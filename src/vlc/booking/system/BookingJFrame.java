@@ -427,7 +427,7 @@ public class BookingJFrame extends javax.swing.JFrame {
     }//GEN-LAST:event_TextStudentEmailActionPerformed
 
     private void TextTimeActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_TextTimeActionPerformed
-        // TODO add your handling code here:
+       
     }//GEN-LAST:event_TextTimeActionPerformed
 
     private void availableTableStudentMouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_availableTableStudentMouseClicked
